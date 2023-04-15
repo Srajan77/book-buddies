@@ -1,0 +1,20 @@
+.clg-study-material{
+    position: absolute;
+    left: 600px;
+}
+
+.clg-study-material iframe{
+    width: 300px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+.clg-study-material .card-1{
+    margin-bottom: 100px;
+    border: 1px solid black;
+}
+
+.clg-study-material .card-2{
+    margin-bottom: 100px;
+}
