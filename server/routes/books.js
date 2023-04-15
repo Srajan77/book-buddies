@@ -123,7 +123,7 @@ router.post("/order-details", async (req, res) => {
       secure: true, // Usually true if connecting to port 465
       auth: {
         user: "sharmasrajan90@gmail.com", // Your email address
-        pass: "dyjoinptogyaazdn", // Password (for gmail, your app password)
+        pass: "", // Password (for gmail, your app password)
       },
     });
 
